@@ -1,0 +1,11 @@
+{
+  "Id": "MoveChosenDialogToBottom",
+  "DisplayName": "Move Chosen Dialog To Bottom",
+  "Author": "chen8chen6",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "MoveChosenDialogToBottom.dll",
+  "EntryMethod": "MoveChosenDialogToBottom.Main.Load",
+  "HomePage": "https://github.com/chen8chen6/WotR_Mod_MoveChosenDialogToBottom"
+}
